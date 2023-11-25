@@ -51,7 +51,7 @@ Social Media Analyzer is a powerful tool designed to extract data from various s
 1. Move to the project's location:
 
 ```bash
-cd path/to/Neurond-Social-Media-Analyzer
+cd path/to/Social-Media-Analyzer
 ```
 
 ```bash
