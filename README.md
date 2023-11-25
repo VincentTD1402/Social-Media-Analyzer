@@ -1,4 +1,4 @@
-`# Katana ML Skipper Web API
+# Katana ML Skipper Web API
 
 Web API implements external access endpoints.
 
@@ -18,7 +18,7 @@ Web API implements external access endpoints.
 
 ## Introduction
 
-Neurond Social Media Analyzer is a powerful tool designed to extract data from various social media platforms. It offers a streamlined and efficient way to crawl and collect information from platforms such as Playstore, Youtube, Appstore, Website, Reddit, Google News.
+Social Media Analyzer is a powerful tool designed to extract data from various social media platforms. It offers a streamlined and efficient way to crawl and collect information from platforms such as Playstore, Youtube, Appstore, Website, Reddit, Google News.
 
 ### Supported platform
 
@@ -92,7 +92,7 @@ python endpoint.py
 1. Move to the project's location:
 
 ```bash
-cd path/to/Neurond-Social-Media-Analyzer
+cd path/to/Social-Media-Analyzer
 ```
 
 2. Run command:
@@ -101,7 +101,7 @@ cd path/to/Neurond-Social-Media-Analyzer
 docker-compose up --build
 ```
 
-**Check the Swagger:** `http://127.0.0.1:4000/api/v1/neurond-social-medial-tool/tasks/docs#`
+**Check the Swagger:** `http://127.0.0.1:4000/api/v1/social-medial-tool/tasks/docs#`
 
 ## Structure
 
@@ -133,10 +133,6 @@ docker-compose up --build
 
 ## Contribution
 
-Contributions to the Neurond Social Media Analyzer are welcome! If you encounter any issues, have ideas for improvements, or would like to add new features, feel free to submit a pull request or create an issue in the repository.
+Contributions to the Social Media Analyzer are welcome! If you encounter any issues, have ideas for improvements, or would like to add new features, feel free to submit a pull request or create an issue in the repository.
 
 ---
-
-## **Older Version**
-
-Check the older version of the project [here](https://github.com/Neurond-AI/Neurond-Social-Media-Analyzer/tree/stable).
